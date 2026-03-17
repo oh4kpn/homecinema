@@ -6,3 +6,8 @@ Left:   Dali Blue 6006
 R-Sur:  Dali Blue 1001
 L-Sur:  Dali Blue 1001
 Sub:    Polkaudio PSW125
+
+hdmi1:  Chromecast Ultra
+hdmi2:  Macmini M1 2020
+hdmi3:  PS3
+
