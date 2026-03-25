@@ -7,6 +7,7 @@ Amplifier + Speakers:
   Left:     Dali Blue 6006
   R-Sur:    Dali Blue 1001
   L-Sur:    Dali Blue 1001
+  LFE:      Polkaudio PSW125
   
 
 Displays
@@ -23,4 +24,3 @@ Bonk for gaming pc:
 
   Amp:      Onkyo TX-SR578
   Center:   Dali Blue C1000
-  Sub:      Polkaudio PSW125
