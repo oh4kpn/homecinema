@@ -19,6 +19,21 @@
 3. PlayStation 3  
 
 
-## Layout
-5.1 surround configuration:
+## Manuals
+- [Onkyo TX-NR7100 Manual](./TX-NR7100_En.pdf)
+- [Dali Blue Series Brochure](./blue-series-brochure.pdf)
+- [Dali Grand Series Owners Manual](./grand-series-owners-manual.pdf)
 
+
+## HDMI
+_TODO_
+
+
+## Dirac Live
+_TODO_
+
+
+## Speaker Layout (5.0)
+
+FL FC FR
+SL    SR
