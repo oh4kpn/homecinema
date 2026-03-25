@@ -35,5 +35,5 @@ _TODO_
 
 ## Speaker Layout (5.0)
 
-FL FC FR
-SL    SR
+- FL FC FR
+- SL    SR
