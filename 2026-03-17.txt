@@ -16,9 +16,8 @@ Displays
 Sources:
 
   1: Macmini M1 2020
-  2: Google TV Streamer (4K)
+  2: Strong LEAP S3 Pro Wi-Fi 4K Google TV
   3: PS3
-  4: Panasonic UB820
 
 Bonk for gaming pc:
 
