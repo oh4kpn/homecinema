@@ -1,21 +1,24 @@
-Amplifier + Speakers:
+# Home Theater Setup
 
-  Onkyo TX-NR7100M2
+## Amplifier + Speakers
+- **AV Receiver:** Onkyo TX-NR7100M2  
+- **Center:** Dali Grand Vocal  
+- **Front Left:** Dali Blue 6006  
+- **Front Right:** Dali Blue 6006  
+- **Surround Left:** Dali Blue 1001  
+- **Surround Right:** Dali Blue 1001  
 
-  Center:   Dali Grand Vocal
-  Right:    Dali Blue 6006
-  Left:     Dali Blue 6006
-  R-Sur:    Dali Blue 1001
-  L-Sur:    Dali Blue 1001
-  
-  
 
-Displays
+## Displays
+- **TV:** Samsung UE65MU7000 (4K, 65")
 
-  Samsung UE65MU7000 (4k 120Hz 65")
 
-Sources:
+## Sources
+1. Mac mini M1 (2020)  
+2. Strong LEAP S3 Pro Wi-Fi 4K Google TV  
+3. PlayStation 3  
 
-  1: Macmini M1 2020
-  2: Strong LEAP S3 Pro Wi-Fi 4K Google TV
-  3: PS3
+
+## Layout
+5.1 surround configuration:
+
