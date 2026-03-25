@@ -2,12 +2,12 @@ Amplifier + Speakers:
 
   Onkyo TX-NR7100M2
 
-  Center:   Dali Blue C1000
+  Center:   Dali Grand Vocal
   Right:    Dali Blue 6006
   Left:     Dali Blue 6006
   R-Sur:    Dali Blue 1001
   L-Sur:    Dali Blue 1001
-  Sub:      Polkaudio PSW125
+  
 
 Displays
 
@@ -23,3 +23,5 @@ Sources:
 Bonk for gaming pc:
 
   Amp:      Onkyo TX-SR578
+  Center:   Dali Blue C1000
+  Sub:      Polkaudio PSW125
