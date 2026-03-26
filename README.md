@@ -6,7 +6,15 @@
 - **Front Left:** Dali Blue 6006 (sn: 500047) 
 - **Front Right:** Dali Blue 6006 (sn: 500047)  
 - **Surround Left:** Dali Blue 1001 (sn: 1200070) 
-- **Surround Right:** Dali Blue 1001 (sn: 1200070) 
+- **Surround Right:** Dali Blue 1001 (sn: 1200070)
+
+## Speaker Layout (5.0)
+
+- FL FC FR
+- SL __ SR
+
+## LFE
+_TODO_
 
 
 ## Displays
@@ -29,11 +37,5 @@
 ## Dirac Live Settings (maybe too big file´s for github)
 _TODO_
 
-## Speaker Layout (5.0)
 
-- FL FC FR
-- SL __ SR
-
-## LFE
-_TODO_
 
