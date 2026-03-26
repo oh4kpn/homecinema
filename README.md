@@ -23,6 +23,7 @@
 - [Onkyo TX-NR7100 Manual](./TX-NR7100_En.pdf)
 - [Dali Blue Series Brochure](./blue-series-brochure.pdf)
 - [Dali Grand Series Owners Manual](./grand-series-owners-manual.pdf)
+- [Strong Leap S3 Pro 4K Manual](./6928536565bfdd2b13567bb8_LEAPS3-PRO_UM_11-09-25_EN.pdf)
 
 
 ## HDMI
