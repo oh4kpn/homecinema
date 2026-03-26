@@ -1,7 +1,7 @@
 # Home Theater Setup
 
 ## Amplifier + Speakers
-- **AV Receiver:** Onkyo TX-NR7100M2  
+- **AV Receiver:** Onkyo TX-NR7100M2 B-EU (sn: 5956MP55440607997)
 - **Center:** Dali Grand Vocal (sn: 500014)
 - **Front Left:** Dali Blue 6006 (sn: 500047) 
 - **Front Right:** Dali Blue 6006 (sn: 500047)  
