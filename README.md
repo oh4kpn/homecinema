@@ -16,9 +16,7 @@
 
 ## Speaker Crossover
 
-- F > 80 Hz
-- C > 80 Hz
-- S > 80 Hz
+- Main, Center, Surround > 80 Hz
 - LFE < 80 Hz
 
 ## Displays
