@@ -8,10 +8,14 @@
 - **Surround Left:** Dali Blue 1001 (sn: 1200070) 
 - **Surround Right:** Dali Blue 1001 (sn: 1200070)
 
-## Speaker Layout (5.0)
+## Speaker Layout and setup (5.0)
 
 - FL FC FR
 - SL __ SR
+
+- F Full
+- C > 60 Hz
+- S > 70 Hz
 
 ## LFE
 _TODO_
