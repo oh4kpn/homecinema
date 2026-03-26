@@ -23,6 +23,7 @@
 - [Onkyo TX-NR7100 Manual](./TX-NR7100_En.pdf)
 - [Dali Grand Series Owners Manual](./grand-series-owners-manual.pdf)
 - [Dali Blue Series Brochure](./blue-series-brochure.pdf)
+- [Samsung UE65MU7000 Manual](.UMU7000S_ZG_BN68-08700A-01_L04_170628.0.pdf)
 - [Strong Leap S3 Pro 4K Manual](./6928536565bfdd2b13567bb8_LEAPS3-PRO_UM_11-09-25_EN.pdf)
 
 
