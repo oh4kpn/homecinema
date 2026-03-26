@@ -28,7 +28,8 @@
 
 
 ## HDMI
-_TODO_
+BD/DVD   = Strong
+Game     = PS3
 
 
 ## Dirac Live
