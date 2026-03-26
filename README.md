@@ -15,10 +15,10 @@
 
 ## Speaker Crossover
 
-- F Full
-- C > 60 Hz
-- S > 70 Hz
-- LFE < 80 Hz (TBD)
+- F > 80 Hz
+- C > 80 Hz
+- S > 80 Hz
+- LFE < 80 Hz
 
 ## Displays
 - **TV:** Samsung UE65MU7000 (4K, 65")
