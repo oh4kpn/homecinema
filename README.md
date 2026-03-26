@@ -2,11 +2,11 @@
 
 ## Amplifier + Speakers
 - **AV Receiver:** Onkyo TX-NR7100M2  
-- **Center:** Dali Grand Vocal  
-- **Front Left:** Dali Blue 6006  
-- **Front Right:** Dali Blue 6006  
-- **Surround Left:** Dali Blue 1001  
-- **Surround Right:** Dali Blue 1001  
+- **Center:** Dali Grand Vocal (sn: 500014)
+- **Front Left:** Dali Blue 6006 (sn: 500047) 
+- **Front Right:** Dali Blue 6006 (sn: 500047)  
+- **Surround Left:** Dali Blue 1001 (sn: 1200070) 
+- **Surround Right:** Dali Blue 1001 (sn: 1200070) 
 
 
 ## Displays
