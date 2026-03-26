@@ -7,11 +7,12 @@
 - **Front Right:** Dali Blue 6006 (sn: 500047)  
 - **Surround Left:** Dali Blue 1001 (sn: 1200070) 
 - **Surround Right:** Dali Blue 1001 (sn: 1200070)
+- **LFE Polkaudio PSW125
 
-## Speaker Layout (5.0)
+## Speaker Layout (5.1)
 
-- FL FC FR
-- SL __ SR
+- FL LFE FC ___ FR
+- SL ___ __ ___ SR
 
 ## Speaker Crossover
 
