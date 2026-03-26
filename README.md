@@ -13,10 +13,10 @@
 - **TV:** Samsung UE65MU7000 (4K, 65")
 
 
-## Sources
-1. Mac mini M1 (2020)  
-2. Strong LEAP S3 Pro Wi-Fi 4K Google TV  
-3. PlayStation 3  
+## HDMI Sources
+
+1. BD/DVD Strong LEAP S3 Pro Wi-Fi 4K Google TV  
+2. GAME PlayStation 3  
 
 
 ## Manuals
@@ -26,17 +26,14 @@
 - [Samsung UE65MU7000 Manual](.UMU7000S_ZG_BN68-08700A-01_L04_170628.0.pdf)
 - [Strong Leap S3 Pro 4K Manual](./6928536565bfdd2b13567bb8_LEAPS3-PRO_UM_11-09-25_EN.pdf)
 
-
-## HDMI
-- BD/DVD   = Strong
-- Game     = PS3
-
-
-## Dirac Live
+## Dirac Live Settings (maybe too big file´s for github)
 _TODO_
-
 
 ## Speaker Layout (5.0)
 
 - FL FC FR
 - SL __ SR
+
+## LFE
+_TODO_
+
