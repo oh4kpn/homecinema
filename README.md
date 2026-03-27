@@ -12,6 +12,7 @@
 ## Speaker Layout (5.1)
 
 - FL LFE FC ___ FR
+- __ __ Sofa __ __
 - SL ___ __ ___ SR
 
 ## Speaker Crossover
