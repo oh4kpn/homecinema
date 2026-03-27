@@ -16,8 +16,8 @@
 
 ## Speaker Crossover
 
-- Main, Center, Surround > 80 Hz
-- LFE < 80 Hz
+- Main, Center, Surround > 70 Hz
+- LFE < 120 Hz
 
 ## Displays
 - **TV:** Samsung UE65MU7000 (4K, 65")
