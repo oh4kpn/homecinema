@@ -3,8 +3,8 @@
 ## Amplifier + Speakers
 - **AV Receiver:** Onkyo TX-NR7100M2 B-EU (sn: 5956MP55440607997)
 - **Center:** Dali Grand Vocal (sn: 500014)
-- **Front Left:** Dali Blue 6006 (sn: 500047) 
-- **Front Right:** Dali Blue 6006 (sn: 500047)  
+- **Front Left:** Dali Blue 6006 (sn: 500047) via Bi-Amp
+- **Front Right:** Dali Blue 6006 (sn: 500047) via Bi-Amp
 - **Surround Left:** Dali Blue 1001 (sn: 1200070) 
 - **Surround Right:** Dali Blue 1001 (sn: 1200070)
 - **LFE:** Polkaudio PSW125
